@@ -1,4 +1,0 @@
-[ZoneTransfer]
-ZoneId=3
-ReferrerUrl=https://data.london.gov.uk/
-HostUrl=https://airdrive-secure.s3-eu-west-1.amazonaws.com/london/dataset/lsoa-atlas/2018-11-15T12%3A00%3A00/lsoa-data.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJJDIMAIVZJDICKHA%2F20240228%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20240228T164100Z&X-Amz-Expires=300&X-Amz-Signature=876ae3a79df07a729aa0e6e28e1905401e86ace683f6e3cac1d1a8c6c57004ba&X-Amz-SignedHeaders=host
